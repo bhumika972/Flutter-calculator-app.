@@ -5,4 +5,4 @@ Subtraction (−)
 Multiplication (×)
 Division (÷)
 Clear input functionality
-Responsive design 
+Responsive design.
